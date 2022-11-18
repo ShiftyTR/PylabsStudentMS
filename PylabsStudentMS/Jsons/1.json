@@ -1,0 +1,58 @@
+{
+  "Id": 1,
+  "ExamName": "Test Exam",
+  "Questions": [
+    {
+      "Text": "What is the capital of Turkey?",
+      "Number": 1,
+      "Answers": [
+        {
+          "Label": "A",
+          "Text": "Ankara",
+          "IsCorrect": true
+        },
+        {
+          "Label": "B",
+          "Text": "Istanbul",
+          "IsCorrect": false
+        },
+        {
+          "Label": "C",
+          "Text": "İzmir",
+          "IsCorrect": false
+        },
+        {
+          "Label": "D",
+          "Text": "Antalya",
+          "IsCorrect": false
+        }
+      ]
+    },
+    {
+      "Text": "What is the capital of Turkey?",
+      "Number": 2,
+      "Answers": [
+        {
+          "Label": "A",
+          "Text": "Ankara",
+          "IsCorrect": true
+        },
+        {
+          "Label": "B",
+          "Text": "Istanbul",
+          "IsCorrect": false
+        },
+        {
+          "Label": "C",
+          "Text": "İzmir",
+          "IsCorrect": false
+        },
+        {
+          "Label": "D",
+          "Text": "Antalya",
+          "IsCorrect": false
+        }
+      ]
+    }
+  ]
+}
